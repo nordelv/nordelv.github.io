@@ -1,0 +1,32 @@
+name: rcaneill.github.io
+description: "Blog de Romain Caneill"
+url: http://rcaneill.github.io
+highlighters: pygments
+timezone: Europe/Paris
+
+gems: [jekyll]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "blog"
+      permalink: /blog/:year/:month/:day/:title/
+      author:
+        name: Romain Caneill
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: "blog"
+      permalink: /blog/:year/:month/:day/:title/
+      author:
+        name: Romain Caneill
+
+exclude:
+- README.md
+- font_grabber.rb
+

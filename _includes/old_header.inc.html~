@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="viewport" content="width=device-width,
+                                   initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet"
+          href="/include/vendor/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet"
+          href="/include/vendor/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <link rel="stylesheet"
+          href="/include/css/styles.css">
+    <link rel="stylesheet"
+          href="/include/css/syntax.css">
+    <link rel="stylesheet"
+          href="/include/vendor/font-awesome/css/font-awesome.min.css">
+    <link href="/include/vendor/opensans.css"
+          rel="stylesheet" type="text/css">
+  </head>
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3" id="sidebar">
+          <a href="/">
+            <img src="/include/img/matthieu.jpg" id="profile"
+                 class="img-rounded center-block"
+                 alt="Profile picture">
+          </a>
+          <br>
+          <p class="text-center even-bigger">
+            <strong>Romain Caneill</strong>
+          </p>
+          <hr>
+          <ul class="list-unstyled text-center bigger">
+            <li><a href="/">home</a></li>
+            <li><a href="/blog/">blog</a></li>
+            <li><a href="/projects/">projects</a></li>
+            <li><a href="/publications/">publications</a></li>
+            <li><a href="/talks/">talks</a></li>
+            <li><a href="/contact/">contact</a></li>
+          </ul>
+          <hr>
+          <ul class="list-inline text-center">
+            <li><a class="blacklink" href="mailto:mattDROPTHIS@brokenwaDROPTHIS.re">
+                <i class="fa fa-envelope-square fa-2x"><span class="title">email me</span></i>
+            </a></li>
+            <li><a class="blacklink" href="https://github.com/matthieucan">
+                <i class="fa fa-github-square fa-2x"><span class="title">github</span></i>
+            </a></li>
+            <li><a class="blacklink" href="http://www.linkedin.com/in/matthieucan">
+                <i class="fa fa-linkedin-square fa-2x"><span class="title">linkedin</span></i>
+            </a></li>
+            <li><a class="blacklink" href="https://twitter.com/matthieucan">
+                <i class="fa fa-twitter-square fa-2x"><span class="title">twitter</span></i>
+            </a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-8" id="content">
+          <h1>{{ page.title }}</h1>

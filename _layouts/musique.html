@@ -1,0 +1,13 @@
+{% include header.inc.html %}
+
+<div id="blog-post-header">
+  <p>
+    <strong>Postée le </strong>: {{ page.date | date: "%B %d, %Y" }}
+    <br>
+    <strong>Catégories :</strong>
+    {{ page.categories | join: ', ' }}
+  </p>
+</div>
+
+{{ content }}
+{% include footer.inc.html %}

@@ -1,0 +1,16 @@
+---
+layout: default
+title: Blog posts
+---
+
+<p>
+  <i class="fa fa-rss-square" style="color: orange;"></i>
+  <a href="/blog/feed/rss.xml">RSS</a>,
+  <a href="/blog/feed/atom.xml">ATOM</a>
+</p>
+
+<ul class="posts">
+  {% for post in site.posts %}
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
