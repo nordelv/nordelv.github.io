@@ -16,7 +16,6 @@ defaults:
       permalink: /blog/:year/:month/:day/:title/
       author: Romain Caneill
         name: 
-musique:
   -
     scope:
       path: ""

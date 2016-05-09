@@ -22,7 +22,7 @@ musique:
       path: ""
       type: "musique"
     values:
-      layout: "musique"
+      layout: "blog"
       permalink: /musique/:year/:month/:day/:title/
       author: Romain Caneill
         name: 
