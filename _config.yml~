@@ -22,7 +22,7 @@ defaults:
       type: "musique"
     values:
       layout: "musique"
-      permalink: /musique/:year/:month/:day/:title/
+      permalink: /musique/:title/
       author: Romain Caneill
         name: 
 
