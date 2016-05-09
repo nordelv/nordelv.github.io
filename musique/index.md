@@ -5,7 +5,7 @@ title: Mes musiques
 
 Cette page est vide pour l'instant...
 
-liste des musiques : test
+liste des musiques :
 
 {{ site.page }}
 
