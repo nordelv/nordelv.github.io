@@ -13,3 +13,5 @@ moins souvent et plus ou moins en détails.
 basiques et les plus travaillées.
 * Evidemment, les photos seront disponibles en quantité dans la rubrique
 [photos](photos/).
+
+42
