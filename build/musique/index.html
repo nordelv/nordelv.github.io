@@ -75,34 +75,24 @@
         <p>Cette page est vide pour l&#8217;instant&#8230;</p>
 
 <p>liste des musiques :</p>
-
-<p>Liquid error: undefined method <code>strftime&#39; for nil:NilClass &amp;raquo;[Photos](/photos/index.html)</code></p>
-<p>Cette page est vide pour l&#8217;instant&#8230;</p>
-<p>Liquid error: undefined method <code>strftime&#39; for nil:NilClass &amp;raquo;[Coucou !](/index.html)</code></p>
-<p>Bienvenue sur mon blog !<br />J&#8217;essayerai tant bien que mal de le tenir à jour maintenant que le plus dur du travail est fait : la mise en page.</p><ul>
+<p>Cette page est vide pour l&#8217;instant&#8230;</p><ul>
 <li>La section <a href='/blog'>blog</a> sera un blog basique ; j&#8217;y raconterai mes journées plus ou moins souvent et plus ou moins en détails.</li>
 
 <li>La section <a href='musique/'>musique</a> contiendra toutes mes créations musicales, les plus basiques et les plus travaillées.</li>
 
 <li>Evidemment, les photos seront disponibles en quantité dans la rubrique <a href='photos/'>photos</a>.</li>
-</ul>
-<p>Liquid error: undefined method <code>strftime&#39; for nil:NilClass &amp;raquo;[Blog](/blog/index.html)</code></p>
-<p>Mes articles de blog :</p><p>08 May 2016 &#187;<a href='/camping/archipel/2016/05/08/WE-uto.html'>Un week-end sur Utö !</a></p><p>06 May 2016 &#187;<a href='/coucou/2016/05/06/coucou.html'>Coucou !</a></p>
-<p>Liquid error: undefined method <code>strftime&#39; for nil:NilClass &amp;raquo;[Contact](/contact/index.html)</code></p>
-<a href='mailto:romain.caneill@yahoo.fr'> N'hésitez pas à m'envoyer un mail ! </a>
-<p>Liquid error: undefined method <code>strftime&#39; for nil:NilClass &amp;raquo;[Mes musiques](/musique/index.html)</code></p>
-
-<p>Cette page est vide pour l&#8217;instant&#8230;</p>
-
+</ul><p>08 May 2016 &#187;<a href='/camping/archipel/2016/05/08/WE-uto.html'>Un week-end sur Utö !</a></p><p>06 May 2016 &#187;<a href='/coucou/2016/05/06/coucou.html'>Coucou !</a></p>
 <p>liste des musiques :</p>
 
-<p>{% for post in site.pages %} {{ post.date | date_to_string }} &#187;{{ post.title }}ost.url }})</p>
+<p>{{ site.pages }}</p>
 
-<p>{{ post.content }} {% endfor %}</p>
-
-<p>Liquid error: undefined method <code>strftime&#39; for nil:NilClass &amp;raquo;[Mes musiques test](/musique/musique1.html)</code></p>
+<p>{% for post in site.posts %} {{ post.date | date_to_string }} &#187;{{ post.title }}ost.url }}) {% endfor %}</p>
 
 <p>42</p>
+
+<p>08 May 2016 &#187;<a href='/camping/archipel/2016/05/08/WE-uto.html'>Un week-end sur Utö !</a></p>
+
+<p>06 May 2016 &#187;<a href='/coucou/2016/05/06/coucou.html'>Coucou !</a></p>
       </div>
     </div>
   </body>
