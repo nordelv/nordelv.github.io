@@ -14,26 +14,18 @@ defaults:
     values:
       layout: "blog"
       permalink: /blog/:year/:month/:day/:title/
-      author:
-        name: Romain Caneill
+      author: Romain Caneill
+        name: 
+musique:
   -
     scope:
       path: ""
       type: "musique"
     values:
-      layout: "blog"
+      layout: "musique"
       permalink: /musique/:year/:month/:day/:title/
-      author:
-        name: Romain Caneill
-  -
-    scope:
-      path: ""
-      type: "drafts"
-    values:
-      layout: "blog"
-      permalink: /blog/:year/:month/:day/:title/
-      author:
-        name: Romain Caneill
+      author: Romain Caneill
+        name: 
 
 exclude:
 - README.md
