@@ -10,4 +10,6 @@
 </div>
 
 {{ content }}
+
+{% include comments.html %}
 {% include footer.inc.html %}
