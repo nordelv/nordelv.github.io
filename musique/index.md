@@ -9,7 +9,9 @@ liste des musiques : test
 
 {{ site.page }}
 
-{% for post in site.layout.musique %}
-  {{ post.date | date_to_string }} &raquo;[{{ post.title }}]({{ post.url }})
-  {% endfor %}
+{% for post in site.pages %}
+  {% if post.tags == 'musique' %}
+   {{ post.date | date_to_string }} &raquo;[{{ post.title }}]({{ post.url }})
+  {% endif %}
+{% endfor %}
 
