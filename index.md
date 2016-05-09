@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coucou !
+title: Hey !
 ---
 
 Bienvenue sur mon blog !  
