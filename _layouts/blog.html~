@@ -9,7 +9,9 @@
   </p>
 </div>
 
+<div class = "col-md-2">
 {{ content }}
+</div>
 
 {% include comments.html %}
 {% include footer.inc.html %}

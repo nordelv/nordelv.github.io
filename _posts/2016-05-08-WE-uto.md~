@@ -13,7 +13,7 @@ est là, ça aide à se reveiller !) et métro / train / bus / ferry nous sommes
 arrivés sur l'île de Utö, grande île donnant au Sud sur la mer Baltique.
 
 <div class="img_row">
-![La vue du ferry](/dl/photos/uto0.jpg)
+  <img class="col three" src="/dl/photos/uto0.jpg" alt = "La vue du ferry">
 </div>
 
 On est d'abord parti randonner le long de la côte Sud-Est, offrant
