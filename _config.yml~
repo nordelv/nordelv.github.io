@@ -16,13 +16,12 @@ defaults:
       permalink: /blog/:year/:month/:day/:title/
       author: Romain Caneill
         name: 
-musique:
   -
     scope:
-      path: ""
+      path: "musique"
       type: "musique"
     values:
-      layout: "blog"
+      layout: "musique"
       permalink: /musique/:year/:month/:day/:title/
       author: Romain Caneill
         name: 
