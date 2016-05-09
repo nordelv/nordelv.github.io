@@ -19,6 +19,15 @@ defaults:
   -
     scope:
       path: ""
+      type: "musique"
+    values:
+      layout: "blog"
+      permalink: /musique/:year/:month/:day/:title/
+      author:
+        name: Romain Caneill
+  -
+    scope:
+      path: ""
       type: "drafts"
     values:
       layout: "blog"
@@ -29,16 +38,3 @@ defaults:
 exclude:
 - README.md
 - font_grabber.rb
-
-collections:
-  musique:
-    defaults:
-      -
-        scope:
-          path: ""
-          type: "post"
-        values:
-          layout: "musique"
-          permalink: /musique/:year/:month/:day/:title/
-          author:
-            name: Romain Caneill
