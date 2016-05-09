@@ -19,7 +19,7 @@ defaults:
   -
     scope:
       path: "musique"
-      type: "musique"
+      type: "pages"
     values:
       layout: "musique"
       permalink: /musique/:title/

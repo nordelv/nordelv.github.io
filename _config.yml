@@ -15,16 +15,7 @@ defaults:
       layout: "blog"
       permalink: /blog/:year/:month/:day/:title/
       author: Romain Caneill
-        name: 
-  -
-    scope:
-      path: "musique"
-      type: "pages"
-    values:
-      layout: "musique"
-      permalink: /musique/:title/
-      author: Romain Caneill
-        name: 
+        name:
 
 exclude:
 - README.md
