@@ -32,7 +32,6 @@ exclude:
 
 collections:
   musique:
-    output: false
     defaults:
       -
         scope:
