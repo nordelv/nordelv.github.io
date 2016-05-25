@@ -3,18 +3,11 @@ layout: default
 title: Mes musiques
 ---
 
-Articles publiés :
-
-{% for post in site.posts %}
-    {% if post.categories contains "musique" %}
-        *{{ post.date | date_to_string }} &raquo; [{{ post.title }}]({{ post.url }})
-    {% endif %}
-{% endfor %}
-
----------
-
-{% for post in site.posts %}
-    * {{ post.categories }}
-{% endfor %}
-
---------
+<ul class="posts">
+    Articles publiés :
+    {% for post in site.posts %}
+       {% if post.tags contains "musique" %}
+           <li><span>{{ post.date | date_to_string }}</span> &raquo; <a          href="{{ post.url }}">{{ post.title }}</a></li>
+       {% endif %}
+    {% endfor %}
+</ul>
