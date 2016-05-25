@@ -20,7 +20,7 @@ page = open(name+'-photos.md', 'a')
 
 header ='<section class="row">\n'
 footer = '</section>'
-imgInsert = '<div class="col-xs-4 col-sm-3 col-md-2 ">\n  <a href="#" class="thumbnail">\n    <img src="/photos/{}/{}" class="img-rounded">\n  </a>\n</div>\n'
+imgInsert = '<div class="col-xs-6 col-sm-5 col-md-4 ">\n  <a href="#" class="thumbnail">\n    <img src="/photos/{}/{}" class="img-rounded">\n  </a>\n</div>\n'
 
 
 page.write(header)
