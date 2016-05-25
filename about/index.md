@@ -11,7 +11,7 @@ Ainsi je peux écrire mes articles en
 [markdown](https://fr.wikipedia.org/wiki/Markdown) ou en html.
 
 Le design du site est largement inspiré de celui de Matthieu Caneill
-([matthieu.io](matthieu.io)).
+([matthieu.io](https://matthieu.io)).
 
 ----------
 
@@ -21,4 +21,4 @@ Thus it allows me to write my article both in
 [markdown](https://en.wikipedia.org/wiki/Markdown) or html.
 
 The design is largely inspired by the one of Matthieu Caneill
-([matthieu.io](matthieu.io)).
+([matthieu.io](https://matthieu.io)).
