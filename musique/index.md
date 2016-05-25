@@ -4,7 +4,7 @@ title: Mes musiques
 ---
 
 <ul class="posts">
-    Articles publiés :
+    Mes articles musicaux :
     {% for post in site.posts %}
        {% if post.tags contains "musique" %}
            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a          href="{{ post.url }}">{{ post.title }}</a></li>
