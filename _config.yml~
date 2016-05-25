@@ -14,8 +14,8 @@ defaults:
     values:
       layout: "blog"
       permalink: /blog/:year/:month/:day/:title/
-      author: Romain Caneill
-        name:
+      author:
+        name: Romain Caneill
 
 exclude:
 - README.md
