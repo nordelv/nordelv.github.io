@@ -16,3 +16,5 @@ Articles publiés :
 {% for post in site.posts %}
     {{ post.categories }}
 {% endfor %}
+
+--------
