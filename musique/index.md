@@ -10,3 +10,9 @@ Articles publiés :
         *{{ post.date | date_to_string }} &raquo; [{{ post.title }}]({{ post.url }})
     {% endif %}
 {% endfor %}
+
+---------
+
+{% for post in site.posts %}
+    {{ site.posts.categories }}
+{% endfor %}
