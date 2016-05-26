@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Photos test
 tags: photo
 ---
