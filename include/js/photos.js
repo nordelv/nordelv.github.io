@@ -5,8 +5,8 @@ function showBig(id){
     var state_new = state;
     alert('test');
     if (!state || old_id !=  id){
+        alert('big');
         var showBigItem = document.querySelector(id);
-        alert('test');
         showBigItem.classList.remove("col-xs-6");
         showBigItem.classList.remove("col-sm-4");
         showBigItem.classList.remove("col-md-4");
@@ -17,8 +17,8 @@ function showBig(id){
         state_new = true;
     }
     if (((old_id==id && state) || old_id !=  id) && old_id != '') {
+        alert('normal');
         var showNormalItem = document.querySelector(old_id);
-        alert('test');
         showNormalItem.classList.remove("col-xs-12");
         showNormalItem.classList.remove("col-sm-12");
         showNormalItem.classList.remove("col-md-12");
