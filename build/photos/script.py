@@ -20,16 +20,16 @@ page = open(name+'-photos.md', 'a')
 
 header ='\n<section class="row">\n'
 footer = '</section>'
-imgInsert = '<div class="col-xs-6 col-sm-4 col-md-4 ">\n  <a href="{}" class="thumbnail">\n    <img src="/photos/{}/{}" class="img-rounded">\n  </a>\n</div>\n'
+imgInsert = '<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="{}" onclick="showBig(\'#\'+id)>\n  <img src="/photos/{}/{}" class="img-rounded">\n</div>\n'
 
 
 page.write(header)
 for photoName in pics:
-    page.write(imgInsert.format('/photos/'+name+'/'+photoName, \
-        name, photoName))
+    page.write(imgInsert.format(photoName,name, photoName))
 page.write(footer)
 page.close()
 
+'''
 # Adding a link to the pics in the blog post, if this post exists
 filesBlog = os.listdir('../_posts')
 if (name+'.md') in filesBlog or (name+'.html') in filesBlog:
@@ -44,3 +44,4 @@ if (name+'.md') in filesBlog or (name+'.html') in filesBlog:
         i+=1
     page.write(footer)
     page.close()
+'''
