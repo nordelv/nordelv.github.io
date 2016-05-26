@@ -6,7 +6,7 @@ tags: photo
 
 
 <section class="row">
-<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="5F0A7051-1.jpg" onclick="showBig('#'+id)">
+<div class="thumbnails col-xs-6 col-sm-4 col-md-4 col-xs-12 col-sm-12 col-md-12" id="5F0A7051-1.jpg" onclick="showBig('#'+id)">
   <img src="/photos/2016-05-26-test/5F0A7051-1.jpg" class="img-rounded">
 </div>
 <div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="5F0A7053-1.jpg" onclick="showBig('#'+id)">
