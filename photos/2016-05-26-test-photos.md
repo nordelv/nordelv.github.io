@@ -3,7 +3,8 @@ layout: photos
 title: Photos test
 tags: photo
 ---
-
+<button onclick="myFunction()">Click me</button>
+<p id="demo"></p>
 
 <section class="row">
 <div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="5F0A7051-1.jpg" onclick="showBig('#'+id)">

@@ -18,3 +18,7 @@ function showBig(id){
     state = state_new;
     old_id = id;
 }
+
+function myFunction() {
+    document.getElementById("demo").innerHTML = "coucou";
+}
