@@ -3,6 +3,7 @@ var state = false
 
 function showBig(id){
     var state_new = state;
+    alert('test');
     if (!state || old_id !=  id){
         var showBigItem = document.querySelector(id);
         alert('test');
