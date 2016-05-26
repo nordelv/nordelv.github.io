@@ -19,26 +19,7 @@
           href="/include/css/img100.css">
     <link href="/include/vendor/opensans.css"
           rel="stylesheet" type="text/css">
-    <script>
-var old_id = '';
-var state = false
-
-function showBig(id){
-    var state_new = state;
-    if (!state || old_id !=  id){
-        var showBigItem = document.querySelector(id);
-        showBigItem.classList.add("col-xs-12 col-sm-12 col-md-12");
-        state_new = true;
-    }
-    if (((old_id==id && state) || old_id !=  id) && old_id != '') {
-        var showNormalItem = document.querySelector(old_id);
-        showNormalItem.classList.remove("col-xs-12 col-sm-12 col-md-12");
-        state_new = (old_id !=  id);
-    }
-    state = state_new;
-    old_id = id;
-}
-</script>
+    <script type="text/javascript" src="/include/js/photos.js"></script>
   </head>
   
   <body>
