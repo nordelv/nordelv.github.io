@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Photos d'Utö
+title: Photos test
 tags: photo
 ---
 
