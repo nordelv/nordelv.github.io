@@ -7,6 +7,7 @@ function showBig(id){
     if (!state || old_id !=  id){
         alert('big');
         var showBigItem = document.querySelector(id);
+        alert('big');
         showBigItem.classList.remove("col-xs-6");
         showBigItem.classList.remove("col-sm-4");
         showBigItem.classList.remove("col-md-4");
