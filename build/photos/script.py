@@ -20,7 +20,7 @@ page = open(name+'-photos.md', 'a')
 
 header ='\n<section class="row">\n'
 footer = '</section>'
-imgInsert = '<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="{}" onclick="showBig(\'#\'+id)>\n  <img src="/photos/{}/{}" class="img-rounded">\n</div>\n'
+imgInsert = '<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="{}" onclick="showBig(\'#\'+id)">\n  <img src="/photos/{}/{}" class="img-rounded">\n</div>\n'
 
 
 page.write(header)
