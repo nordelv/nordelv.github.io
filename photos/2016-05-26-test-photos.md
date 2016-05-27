@@ -12,7 +12,7 @@ tags: photo
     <li id="y" onclick="disp('#'+id)">Six</li>
 </ul>
 
-<img src="http://img0.mxstatic.com/wallpapers/8daae8e966248ff339b3310f6fcde6fe_large.jpeg" alt="Mountain View" style="width:30px;height:22px;" id="dfdfd" onclick="disp('#'+id)">
+<img src="http://img0.mxstatic.com/wallpapers/8daae8e966248ff339b3310f6fcde6fe_large.jpeg" alt="Mountain View" id="dfdfd" onclick="disp('#'+id)">
 
 <p>Click the button to trigger a function that will output "Hello World" in a p element with id="demo".</p>
 
@@ -36,7 +36,7 @@ function disp(id){
     var state_new = state;
     if (!state || old_id !=  id){
         var rmItem = document.querySelector(id);
-        rmItem.classList.add("disableMenu");
+        rmItem.classList.add("col-md-4");
         rmItem.style.width = "70px"
         state_new = true;
     }
