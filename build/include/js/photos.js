@@ -1,31 +1,26 @@
 var old_id = '';
-var state = false
+var state = false;
 
 function showBig(id){
-    alert('42');
     var state_new = state;
     if (!state || old_id !=  id){
         var showBigItem = document.querySelector(id);
-        alert('big 0 '+id);
         showBigItem.classList.remove("col-xs-6");
         showBigItem.classList.remove("col-sm-4");
         showBigItem.classList.remove("col-md-4");
         showBigItem.classList.add("col-xs-12");
         showBigItem.classList.add("col-sm-12");
         showBigItem.classList.add("col-md-12");
-        alert('big 1 '+id);
         state_new = true;
     }
     if (((old_id==id && state) || old_id !=  id) && old_id != '') {
         var showNormalItem = document.querySelector(old_id);
-        alert('normal 0 '+id);
         showNormalItem.classList.remove("col-xs-12");
         showNormalItem.classList.remove("col-sm-12");
         showNormalItem.classList.remove("col-md-12");
         showNormalItem.classList.add("col-xs-6");
         showNormalItem.classList.add("col-sm-4");
         showNormalItem.classList.add("col-md-4");
-        alert('normal 1 '+id);
         state_new = (old_id !=  id);
     }
     state = state_new;
@@ -36,7 +31,7 @@ function myFunction() {
     document.getElementById("demo").innerHTML = "coucou";
 }
 
-function void(){
+function void2(){
 
         showBigItem.classList.remove("col-xs-6");
         showBigItem.classList.remove("col-sm-4");
