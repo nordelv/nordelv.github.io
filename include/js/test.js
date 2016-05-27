@@ -1,7 +1,7 @@
+alert('loading test.js');
 var old_id = '';
 var state = false;
 
-alert('loading photos.js');
 
 function showBig(id){
     alert('42');
