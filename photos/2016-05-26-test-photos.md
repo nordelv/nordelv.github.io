@@ -3,7 +3,7 @@ layout: photos
 title: Photos test
 tags: photo
 ---
-<ul onclick="disp("#dropDown")" id="dropDown">
+<ul onclick="disp('#dropDown')" id="dropDown">
     <li onclick="disp('#q1')" id="q1">One</li>
     <li onclick="disp('#w')" id="w">Two</li>
     <li onclick="disp('#e')" id="e">Three</li>
