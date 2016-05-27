@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Photos d'Utö
 tags: photo
 ---
