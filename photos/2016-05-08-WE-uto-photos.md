@@ -4,8 +4,9 @@ title: Photos d'Utö
 tags: photo
 ---
 
-Toutes les photos ont été prises par **Étienne Pauthenet**.  
+Toutes les photos (ou presque) ont été prises par **Étienne Pauthenet**.  
 Pour retrouver le récit de nos aventures, [c'est par là](/blog/2016-05-08-WE-uto/) !
+
 
 <section class="row">
 <div class="col-xs-6 col-sm-4 col-md-4" id="pic5F0A7051-1jpg" onclick="showBig('#'+id)">

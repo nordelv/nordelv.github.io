@@ -33,7 +33,7 @@ page.close()
 
 # Adding a link to the pics in the blog post, if this post exists
 
-imgInsert = '<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="pic{}" onclick="showBig(\'#\'+id)">\n  <img src="/photos/{}/{}" class="img-rounded">\n</div>\n'
+imgInsert = '<div class="col-xs-6 col-sm-4 col-md-4 ">\n  <a href="{}" class="thumbnail">\n    <img src="/photos/{}/{}" class="img-rounded">\n  </a>\n</div>\n'
 
 filesBlog = os.listdir('../_posts')
 if (name+'.md') in filesBlog or (name+'.html') in filesBlog:
