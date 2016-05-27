@@ -5,8 +5,12 @@ function showBig(id){
     var state_new = state;
     if (!state || old_id !=  id){
         var showBigItem = document.querySelector(id);
-        showBigItem.classList.add("img-rounded");
-        alert('big');
+        showBigItem.classList.remove("col-xs-6");
+        showBigItem.classList.remove("col-sm-4");
+        showBigItem.classList.remove("col-md-4");
+        showBigItem.classList.add("col-xs-12");
+        showBigItem.classList.add("col-sm-12");
+        showBigItem.classList.add("col-md-12");
         state_new = true;
     }
     if (((old_id==id && state) || old_id !=  id) && old_id != '') {
@@ -17,7 +21,6 @@ function showBig(id){
         showNormalItem.classList.add("col-xs-6");
         showNormalItem.classList.add("col-sm-4");
         showNormalItem.classList.add("col-md-4");
-        alert('normal');
         state_new = (old_id !=  id);
     }
     state = state_new;
