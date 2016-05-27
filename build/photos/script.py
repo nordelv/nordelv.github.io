@@ -20,12 +20,12 @@ page = open(name+'-photos.md', 'a')
 
 header ='\n<section class="row">\n'
 footer = '</section>\n'
-imgInsert = '<div class="col-xs-6 col-sm-4 col-md-4" id="pic{}" onclick="showBig(\'#\'+id)">\n  <a class="thumbnail">\n    <img src="/photos/{}/{}" class="img-rounded">\n  </a>\n</div>\n'
+imgInsert = '<div class="col-xs-6 col-sm-4 col-md-4" id="pic{}" onclick="showBig(\'#\'+id)">\n  <a href="#pic{}" class="thumbnail">\n    <img src="/photos/{}/{}" class="img-rounded">\n  </a>\n</div>\n'
 
 
 page.write(header)
 for photoName in pics:
-    page.write(imgInsert.format(photoName.replace('.',''),name, photoName))
+    page.write(imgInsert.format(photoName.replace('.',''),photoName.replace('.',''),name, photoName))
 page.write(footer)
 page.close()
 
