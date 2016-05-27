@@ -1,5 +1,7 @@
 var old_id = '';
-var state = false
+var state = false;
+
+alert('loading js');
 
 function showBig(id){
     alert('42');

@@ -19,11 +19,14 @@
           href="include/css/img100.css">
     <link href="include/vendor/opensans.css"
           rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="include/js/photos.js"></script>
     <script>
 var old_id = '';
 var state = false
-
-function showBig(id){
+myFunction();
+alert('42');
+function showBig2(id){
+    alert('42');
     var state_new = state;
     if (!state || old_id !=  id){
         var showBigItem = document.querySelector(id);
@@ -151,6 +154,8 @@ function disp2(id) {
     
   </p>
 </div>
+
+<p id="demo"></p>
 
 <section class="row">
 <div class="col-xs-6 col-sm-4 col-md-4 " id="asfgsfgwerf" onclick="showBig('#'+id)">
