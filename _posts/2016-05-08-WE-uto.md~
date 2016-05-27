@@ -46,22 +46,17 @@ Voilà sur une petite carte la position de l'île !
 <hr>
 <p>Cliquez sur une photo pour accéder à toutes les photos</p>
 <section class="row">
-<div class="col-xs-6 col-sm-4 col-md-4 ">
-  <a href="/photos/2016-05-08-WE-uto-photos.html" class="thumbnail">
-    <img src="/photos/2016-05-08-WE-uto/5F0A7051-1.jpg" class="img-rounded">
-  </a>
+<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="pic/photos/2016-05-08-WE-uto-photos.html" onclick="showBig('#'+id)">
+  <img src="/photos/2016-05-08-WE-uto/5F0A7051-1.jpg" class="img-rounded">
 </div>
-<div class="col-xs-6 col-sm-4 col-md-4 ">
-  <a href="/photos/2016-05-08-WE-uto-photos.html" class="thumbnail">
-    <img src="/photos/2016-05-08-WE-uto/5F0A7053-1.jpg" class="img-rounded">
-  </a>
+<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="pic/photos/2016-05-08-WE-uto-photos.html" onclick="showBig('#'+id)">
+  <img src="/photos/2016-05-08-WE-uto/5F0A7053-1.jpg" class="img-rounded">
 </div>
-<div class="col-xs-6 col-sm-4 col-md-4 ">
-  <a href="/photos/2016-05-08-WE-uto-photos.html" class="thumbnail">
-    <img src="/photos/2016-05-08-WE-uto/5F0A7061-1.jpg" class="img-rounded">
-  </a>
+<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="pic/photos/2016-05-08-WE-uto-photos.html" onclick="showBig('#'+id)">
+  <img src="/photos/2016-05-08-WE-uto/5F0A7061-1.jpg" class="img-rounded">
 </div>
 </section>
+
 <hr>
 <p>Cliquez sur une photo pour accéder à toutes les photos</p>
 <section class="row">
