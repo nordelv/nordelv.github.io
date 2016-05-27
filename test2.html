@@ -19,67 +19,7 @@
           href="include/css/img100.css">
     <link href="include/vendor/opensans.css"
           rel="stylesheet" type="text/css">
-    <script>
-var old_id = '';
-var state = false
-
-function showBig(id){
-    var state_new = state;
-    if (!state || old_id !=  id){
-        var showBigItem = document.querySelector(id);
-        alert('big0');
-        showBigItem.classList.remove("col-xs-6");
-        showBigItem.classList.remove("col-sm-4");
-        showBigItem.classList.remove("col-md-4");
-        showBigItem.classList.add("col-xs-12");
-        showBigItem.classList.add("col-sm-12");
-        showBigItem.classList.add("col-md-12");
-        alert('big1');
-        state_new = true;
-    }
-    if (((old_id==id && state) || old_id !=  id) && old_id != '') {
-        var showNormalItem = document.querySelector(old_id);
-        alert('normal0');
-        showNormalItem.classList.remove("col-xs-12");
-        showNormalItem.classList.remove("col-sm-12");
-        showNormalItem.classList.remove("col-md-12");
-        showNormalItem.classList.add("col-xs-6");
-        showNormalItem.classList.add("col-sm-4");
-        showNormalItem.classList.add("col-md-4");
-        alert('normal1');
-        state_new = (old_id !=  id);
-    }
-    state = state_new;
-    old_id = id;
-}
-function myFunction() {
-    document.getElementById("demo").innerHTML = state;
-}
-
-function printId(id){
-alert(id);
-}
-
-function disp(id){
-    var state_new = state;
-    if (!state || old_id !=  id){
-        var rmItem = document.querySelector(id);
-        rmItem.classList.add("col-md-4");
-        state_new = true;
-    }
-    if (((old_id==id && state) || old_id !=  id) && old_id != '') {
-        var addItem = document.querySelector(old_id);
-        addItem.classList.remove("disableMenu");
-        state_new = (old_id !=  id);
-    }
-    state = state_new;
-    old_id = id;
-}
-
-function disp2(id) {
-    alert(id);
-}
-</script>
+    <script type="text/javascript" src="include/js/photos.js"></script>
   </head>
   
   <body>
@@ -126,16 +66,16 @@ function disp2(id) {
               <ul class="posts">
                 Derniers articles :
                 
-                  <li><span>25 May 2016</span> &raquo; <a          href="/blog/2016-05-25-reveil/">Un réveil à la guitare</a></li>
+                  <li><span>25 May 2016</span> &raquo; <a          href="/réveil/guitare/folk/2016/05/25/reveil.html">Un réveil à la guitare</a></li>
                 
-                  <li><span>08 May 2016</span> &raquo; <a          href="/blog/2016-05-08-WE-uto/">Un week-end sur Utö !</a></li>
+                  <li><span>08 May 2016</span> &raquo; <a          href="/camping/archipel/2016/05/08/WE-uto.html">Un week-end sur Utö !</a></li>
                 
-                  <li><span>06 May 2016</span> &raquo; <a          href="/blog/2016-05-06-coucou/">Coucou !</a></li>
+                  <li><span>06 May 2016</span> &raquo; <a          href="/coucou/2016/05/06/coucou.html">Coucou !</a></li>
                 
               </ul>
               <hr>
               <footer class ="col-xs-12">
-              <p>Dernière mise à jour : 2016-05-27 10:39:11 +0200</p>
+              <p>Dernière mise à jour : 2016-05-27 12:19:32 +0200</p>
             </div>
 
       <div class="col-xs-12 col-sm-9 col-md-8 img_100" id="content">
@@ -152,54 +92,57 @@ function disp2(id) {
   </p>
 </div>
 
-<ul>
-    <li onclick="disp('#q1')" id="q1">One</li>
-    <li onclick="disp('#w')" id="w">Two</li>
-    <li onclick="disp('#e')" id="e">Three</li>
-    <li onclick="disp('#r')" id="r">Four</li>
-    <li onclick="disp('#t')" id="t">Five</li>
-    <li id="y" onclick="disp('#'+id)">Six</li>
-</ul>
-
-<p><img src="http://img0.mxstatic.com/wallpapers/8daae8e966248ff339b3310f6fcde6fe_large.jpeg" alt="Mountain View" id="dfdfd" onclick="disp('#'+id)" /></p>
-
-<div class="thumbnails">
-<img src="http://img0.mxstatic.com/wallpapers/8daae8e966248ff339b3310f6fcde6fe_large.jpeg" id="asfgf" onclick="disp('#'+id)" class="img-rounded col-xs-12 col-sm-12 col-md-12"/>
-</div>
-
-<p>Click the button to trigger a function that will output "Hello World" in a p element with id="demo".</p>
-
-<p><button onclick="myFunction()">Click me</button></p>
-
-<p id="demo"></p>
-
-
-
-
-<section class="row">
-<div class="col-xs-6 col-sm-4 col-md-4 " id="asfgsfgwerf" onclick="showBig('#'+id)">
-  <a class="thumbnail">
-    <img src="photos/2016-05-08-WE-uto/5F0A7051-1.jpg" class="img-rounded">
+<section class='row'>
+<div class='col-xs-6 col-sm-4 col-md-4 ' id='asfgsfgwerf' onclick='showBig("#"+id)'>
+  <a class='thumbnail'>
+    <img class='img-rounded' src='photos/2016-05-08-WE-uto/5F0A7051-1.jpg' />
   </a>
 </div>
-<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="a5F0A7053-1jpg" onclick="showBig('#'+id)">
-  <img src="photos/2016-05-26-test/5F0A7053-1.jpg" class="img-rounded" />
+<div class='thumbnails col-xs-6 col-sm-4 col-md-4' id='a5F0A7053-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <img class='img-rounded' src='photos/2016-05-26-test/5F0A7053-1.jpg' />
 </div>
-<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="a5F0A7061-1.jpg" onclick="showBig('#'+id)">
-  <img src="photos/2016-05-26-test/5F0A7061-1.jpg" class="img-rounded" />
+<div class='thumbnails col-xs-6 col-sm-4 col-md-4' id='a5F0A7061-1.jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <img class='img-rounded' src='photos/2016-05-26-test/5F0A7061-1.jpg' />
 </div>
-<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="a5F0A7068-1jpg" onclick="showBig('#'+id)">
-  <img src="photos/2016-05-26-test/5F0A7068-1.jpg" class="img-rounded" />
+<div class='thumbnails col-xs-6 col-sm-4 col-md-4' id='a5F0A7068-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <img class='img-rounded' src='photos/2016-05-26-test/5F0A7068-1.jpg' />
 </div>
-<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="a5F0A7072-1jpg" onclick="showBig('#'+id)">
-  <img src="photos/2016-05-26-test/5F0A7072-1.jpg" class="img-rounded" />
+<div class='thumbnails col-xs-6 col-sm-4 col-md-4' id='a5F0A7072-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <img class='img-rounded' src='photos/2016-05-26-test/5F0A7072-1.jpg' />
 </div>
-<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="a5F0A7075-1jpg" onclick="showBig('#'+id)">
-  <img src="photos/2016-05-26-test/5F0A7075-1.jpg" class="img-rounded" />
+<div class='thumbnails col-xs-6 col-sm-4 col-md-4' id='a5F0A7075-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <img class='img-rounded' src='photos/2016-05-26-test/5F0A7075-1.jpg' />
 </div>
 </section>
-
+<p><strong>TEST TEST TEST TEST</strong></p>
+<section class='row'>
+<div class='col-xs-6 col-sm-4 col-md-4' id='pic5F0A7051-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <a class='thumbnail'>
+    <img class='img-rounded' src='photos/2016-05-26-test/5F0A7051-1.jpg' />
+  </a>
+</div><div class='col-xs-6 col-sm-4 col-md-4' id='pic5F0A7053-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <a class='thumbnail'>
+    <img class='img-rounded' src='photos/2016-05-26-test/5F0A7053-1.jpg' />
+  </a>
+</div><div class='col-xs-6 col-sm-4 col-md-4' id='pic5F0A7061-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <a class='thumbnail'>
+    <img class='img-rounded' src='photos/2016-05-26-test/5F0A7061-1.jpg' />
+  </a>
+</div><div class='col-xs-6 col-sm-4 col-md-4' id='pic5F0A7068-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <a class='thumbnail'>
+    <img class='img-rounded' src='photos/2016-05-26-test/5F0A7068-1.jpg' />
+  </a>
+</div><div class='col-xs-6 col-sm-4 col-md-4' id='pic5F0A7072-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <a class='thumbnail'>
+    <img class='img-rounded' src='photos/2016-05-26-test/5F0A7072-1.jpg' />
+  </a>
+</div><div class='col-xs-6 col-sm-4 col-md-4' id='pic5F0A7075-1jpg' onclick='showBig(&apos;#&apos;+id)'>
+  <a class='thumbnail'>
+    <img class='img-rounded' src='photos/2016-05-26-test/5F0A7075-1.jpg' />
+  </a>
+</div></section>
       </div>
     </div>
   </body>
 </html>
+
