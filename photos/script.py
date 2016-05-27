@@ -22,7 +22,7 @@ header ='\n<section class="row">\n'
 footer = '</section>'
 imgInsert = '<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="pic{}" onclick="showBig(\'#\'+id)">\n  <img src="/photos/{}/{}" class="img-rounded">\n</div>\n'
 
-imgInsert = '''<div class="col-xs-6 col-sm-4 col-md-4 " id="pic{}" onclick="showBig('#'+id)">
+imgInsert = '''<div class="col-xs-6 col-sm-4 col-md-4" id="pic{}" onclick="showBig('#'+id)">
   <a class="thumbnail">
     <img src="/photos/{}/{}" class="img-rounded">
   </a>
