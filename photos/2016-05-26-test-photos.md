@@ -36,8 +36,7 @@ function disp(id){
     var state_new = state;
     if (!state || old_id !=  id){
         var rmItem = document.querySelector(id);
-        rmItem.classList.add("col-md-4");
-        rmItem.style.width = "70px"
+        rmItem.classList.add("col-md-1");
         state_new = true;
     }
     if (((old_id==id && state) || old_id !=  id) && old_id != '') {
@@ -53,7 +52,7 @@ function disp(id){
 
 
 <section class="row">
-<div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="a5F0A7051-1.jpg" onclick="showBig('#'+id)">
+<div class="thumbnails" id="a5F0A7051-1.jpg" onclick="disp('#'+id)">
   <img src="/photos/2016-05-26-test/5F0A7051-1.jpg" class="img-rounded">
 </div>
 <div class="thumbnails col-xs-6 col-sm-4 col-md-4" id="a5F0A7053-1.jpg" onclick="showBig('#'+id)">
