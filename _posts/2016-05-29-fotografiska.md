@@ -9,7 +9,8 @@ Le musée n'était pas très grand : il y avait quatre expositions,
 parlant des animaux d'Afrique, ou bien de l'Homme.
 
 # *Inherit the dust* : Nick Brandt
-    <img src="/photos/2016-05-29-fotografiska/IMG_20160529_122346.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-8">
+
+<img src="/photos/2016-05-29-fotografiska/IMG_20160529_122346.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-8">
 
 Le photographe Nick Brandt a voulu montrer par ses photos qu'il faut
 s'atteler à préserver la majestueuse nature africaine. Que les animaux
