@@ -53,4 +53,9 @@ Voilà des jolies maquettes du bateau.</p>
 Après le musée et le lendemain on s'est promené dans Stockholm, sous
 un beau soleil !
 
+<section class = "row">
+    <p><img src="/dl/photos/robin5.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
+Géologue en action !.</p>
+</section>
+
 *Romain*
