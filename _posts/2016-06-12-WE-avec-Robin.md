@@ -6,9 +6,9 @@ tags: blog
 ---
 <section class="row">
 <img src="/dl/photos/robin1.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6">
-Le weekend dernier (4 -- 5 juin) Robin, un copain géologue en stage à
+<p>Le weekend dernier (4 -- 5 juin) Robin, un copain géologue en stage à
 Oslo, est venu à Stockholm. J'ai donc eu l'occasion de jouer au
-touriste avec lui (parce que sinon j'ai bof la motivation quand même).
+touriste avec lui (parce que sinon j'ai bof la motivation quand même).</p>
 </section>
 
 # Vasamuseet
