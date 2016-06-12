@@ -59,13 +59,18 @@ Géologue en action !</p>
 </section>
 
 <section class = "row">
-    <p>On a même trouvé des canards :).</p>
 	<p><img src="/dl/photos/robin6.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
+<p>On a même trouvé des canards :).</p>
 </section>
 
 <section class = "row">
     <p><img src="/dl/photos/robin7.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
 <p>Une entrée du palais royal.</p>
+</section>
+
+<section class = "row">
+    <p><img src="/dl/photos/robin8.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
+<p>La chapelle du palais royal.</p>
 </section>
 
 *Romain*
