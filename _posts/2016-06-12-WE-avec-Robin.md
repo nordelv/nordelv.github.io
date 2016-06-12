@@ -35,9 +35,9 @@ pendant 300 ans, avant d'être repêché dans les années 50, en quasi
 parfait état.</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Voyage_of_the_Vasa_Locator.svg/1024px-Voyage_of_the_Vasa_Locator.svg.png" class="img-rounded col-xs-12 col-sm-12 col-md-12">
-Le parcours du bateau avant de couler. Vous pourrez reconnaitre
-les emplacements sur le carte google maps juste au dessus.
 
+<p>Le parcours du bateau avant de couler. Vous pourrez reconnaitre
+les emplacements sur le carte google maps juste au dessus.</p>
 </section>
 
 <section class = "row">
@@ -45,5 +45,7 @@ les emplacements sur le carte google maps juste au dessus.
     <img src="/dl/photos/robin3.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
 Voilà des jolies maquettes du bateau.
 </section>
+
+
 
 *Romain*
