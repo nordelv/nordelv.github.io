@@ -4,11 +4,11 @@ categories: Stockholm Vasa musée tourisme
 comments: true
 tags: blog
 ---
-
+<section>
 <img src="/dl/photos/robin1.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6">
 Le weekend dernier (4 -- 5 juin) Robin, un copain géologue en stage à
 Oslo, est venu à Stockholm.
-
+</section>
 # Vasamuseet
 
 Le musée du Vasa se situe sur l'une des nombreuses îles de Stockholm.
