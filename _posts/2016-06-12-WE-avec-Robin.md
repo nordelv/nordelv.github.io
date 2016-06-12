@@ -53,7 +53,6 @@ Voilà des jolies maquettes du bateau.</p>
 Après le musée et le lendemain on s'est promené dans Stockholm, sous
 un beau soleil !
 
-<div class="container">
 <section class = "row">
     <p><img src="/dl/photos/robin5.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6">
 Géologue en action !</p>
@@ -61,7 +60,7 @@ Géologue en action !</p>
 
 <section class = "row">
 	<p><img src="/dl/photos/robin6.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
-<p class="col-xs-12 col-sm-2 col-md-6">On a même trouvé des canards :).</p>
+<p>On a même trouvé des canards :).</p>
 </section>
 
 <section class = "row">
@@ -77,7 +76,26 @@ Géologue en action !</p>
 <section class = "row">
     <p><img src="/dl/photos/robin8.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
 <p>Le repos mérité au soleil.</p>
-</section>
 </div>
 
 *Romain*
+
+<hr>
+<p>Cliquez sur une photo pour accéder à toutes les photos</p>
+<section class="row">
+<div class="col-xs-6 col-sm-4 col-md-4 ">
+  <a href="/photos/2016-06-12-WE-avec-Robin-photos.html" class="thumbnail">
+    <img src="/photos/2016-06-12-WE-avec-Robin/IMG_20160604_111812.jpg" class="img-rounded">
+  </a>
+</div>
+<div class="col-xs-6 col-sm-4 col-md-4 ">
+  <a href="/photos/2016-06-12-WE-avec-Robin-photos.html" class="thumbnail">
+    <img src="/photos/2016-06-12-WE-avec-Robin/IMG_20160604_111825.jpg" class="img-rounded">
+  </a>
+</div>
+<div class="col-xs-6 col-sm-4 col-md-4 ">
+  <a href="/photos/2016-06-12-WE-avec-Robin-photos.html" class="thumbnail">
+    <img src="/photos/2016-06-12-WE-avec-Robin/IMG_20160604_111831.jpg" class="img-rounded">
+  </a>
+</div>
+</section>
