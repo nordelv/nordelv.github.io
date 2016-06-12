@@ -48,6 +48,9 @@ vient de [Wikipedia](https://fr.wikipedia.org/wiki/Vasa).</p>
 <p>Voilà des jolies maquettes du bateau.</p>
 </section>
 
+# Tourisme dans la ville
 
+Après le musée et le lendemain on s'est promené dans Stockholm, sous
+un beau soleil !
 
 *Romain*
