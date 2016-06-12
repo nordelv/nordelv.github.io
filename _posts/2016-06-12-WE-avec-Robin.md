@@ -70,7 +70,7 @@ Géologue en action !</p>
 
 <section class = "row">
     <p><img src="/dl/photos/robin8.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
-<p>La chapelle du palais royal.</p>
+<p class="vertical-center">La chapelle du palais royal.</p>
 </section>
 
 *Romain*
