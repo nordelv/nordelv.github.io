@@ -36,8 +36,9 @@ parfait état.
 </section>
 
 <section class = "row">
-    <img src="/dl/photos/robin2.jpg" class="img-rounded col-xs-12 col-sm-12 col-md-12">
-    <img src="/dl/photos/robin3.jpg" class="img-rounded col-xs-12 col-sm-12 col-md-12">
+    <img src="/dl/photos/robin2.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
+    <img src="/dl/photos/robin3.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
+Voilà des jolies maquettes du bateau.
 </section>
 
 Pour réaliser ces photos, ils ont d'abord du imprimer en taille réelle
