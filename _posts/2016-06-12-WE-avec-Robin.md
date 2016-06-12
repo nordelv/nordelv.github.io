@@ -4,7 +4,7 @@ categories: Stockholm Vasa musée tourisme
 comments: true
 tags: blog
 ---
-<section>
+<section class="row">
 <img src="/dl/photos/robin1.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6">
 Le weekend dernier (4 -- 5 juin) Robin, un copain géologue en stage à
 Oslo, est venu à Stockholm. J'ai donc eu l'occasion de jouer au
@@ -19,7 +19,7 @@ Le musée du Vasa se situe sur l'une des nombreuses îles de Stockholm.
 
 <section>
 <img src="/dl/photos/robin4.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6">
-Le Vasa est un bateau de guerre suédois construit au milieu du XVII
+<p>Le Vasa est un bateau de guerre suédois construit au milieu du XVII
 ème sicècle à Stockholm. Il a été conçu pour être un des plus grands
 bateau de guerre de l'époque. Mais malheureusement, il était trop
 haut et pas assez lesté, donc pas du tout stable. Après un peu moins
@@ -28,11 +28,11 @@ du port, et malgré le peu de voile ouvertes, le bateau a basculé sur
 le côté, a pris l'eau par les sabords et a coulé.
 Cela devant les yeux ébahis de centaines (ou millier) de personnes
 venues assister á cette démonstration de force.
-Personnellement, je trouve l'histoire assez drôle.
+Personnellement, je trouve l'histoire assez drôle.</p>
 
-Il est ensuite resté dans l'eau, à une trentaine de mètres de fond
+<p>Il est ensuite resté dans l'eau, à une trentaine de mètres de fond
 pendant 300 ans, avant d'être repêché dans les années 50, en quasi
-parfait état.
+parfait état.</p>
 </section>
 
 <section class = "row">
