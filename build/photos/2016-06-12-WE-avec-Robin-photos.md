@@ -1,4 +1,3 @@
-
 <section class="row">
 <div class="col-xs-6 col-sm-4 col-md-4" id="picIMG_20160604_111812jpg" onclick="showBig('#'+id)">
   <a href="#picIMG_20160604_111812jpg" class="thumbnail">
