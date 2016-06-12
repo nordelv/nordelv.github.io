@@ -54,8 +54,12 @@ Après le musée et le lendemain on s'est promené dans Stockholm, sous
 un beau soleil !
 
 <section class = "row">
-    <p><img src="/dl/photos/robin5.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
-Géologue en action !.</p>
+    <p><img src="/dl/photos/robin5.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6">
+Géologue en action !</p>
 </section>
 
+<section class = "row">
+    <p>On a même trouvé des canards :).
+	<img src="/dl/photos/robin6.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
+</section>
 *Romain*
