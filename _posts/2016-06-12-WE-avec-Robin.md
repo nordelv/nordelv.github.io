@@ -53,6 +53,7 @@ Voilà des jolies maquettes du bateau.</p>
 Après le musée et le lendemain on s'est promené dans Stockholm, sous
 un beau soleil !
 
+<div class="container">
 <section class = "row">
     <p><img src="/dl/photos/robin5.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6">
 Géologue en action !</p>
@@ -72,5 +73,6 @@ Géologue en action !</p>
     <p><img src="/dl/photos/robin8.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
 <p class="vertical-center">La chapelle du palais royal.</p>
 </section>
+</div>
 
 *Romain*
