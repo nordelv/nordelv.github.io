@@ -33,6 +33,11 @@ Personnellement, je trouve l'histoire assez drôle.</p>
 <p>Il est ensuite resté dans l'eau, à une trentaine de mètres de fond
 pendant 300 ans, avant d'être repêché dans les années 50, en quasi
 parfait état.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Voyage_of_the_Vasa_Locator.svg/1024px-Voyage_of_the_Vasa_Locator.svg.png" class="img-rounded col-xs-12 col-sm-12 col-md-12">
+Le parcours du bateau avant de couler. Vous pourrez reconnaitre
+les emplacements sur le carte google maps juste au dessus.
+
 </section>
 
 <section class = "row">
@@ -40,31 +45,5 @@ parfait état.</p>
     <img src="/dl/photos/robin3.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
 Voilà des jolies maquettes du bateau.
 </section>
-
-Pour réaliser ces photos, ils ont d'abord du imprimer en taille réelle
-les photos des animaux, puis les accrocher dans le décor.
-
-  <img src="/photos/2016-05-29-fotografiska/IMG_20160529_124351.jpg" class="img-rounded col-xs-12 col-sm-12 col-md-12">
-
-# Bettina Rheims
-
-L'exposition mêlait plusieurs séries de photos, toutes des portraits.
-J'ai globalement pas été hyper sensible, sauf pour certaines photos
-assez prenantes.
-
-<img src="/photos/2016-05-29-fotografiska/IMG_20160529_130440.jpg" class="img-rounded col-xs-12 col-sm-12 col-md-12">
-  <p>"Daryl Hannah I", 1990, Paris de Bettina Rheims</p>
-
-# *Icon - An Exhibition about the Right to Exist* : Emma Svensson
-
-
-<img src="/photos/2016-05-29-fotografiska/IMG_20160529_131857.jpg" class="img-rounded col-xs-12 col-sm-12 col-md-12">
-
-L'exposition présentait des portraits iconiques, mis en scène avec des
-personnes trisomiques. Certaines photos étaient très touchantes.
-
-
-  <img src="/photos/2016-05-29-fotografiska/IMG_20160529_131824.jpg" class="img-rounded col-xs-12 col-sm-12 col-md-12">
-
 
 *Romain*
