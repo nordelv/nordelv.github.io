@@ -43,9 +43,9 @@ vient de [Wikipedia](https://fr.wikipedia.org/wiki/Vasa).</p>
 </section>
 
 <section class = "row">
-    <img src="/dl/photos/robin2.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
+    <p><img src="/dl/photos/robin2.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
     <img src="/dl/photos/robin3.jpg" class="img-rounded col-xs-12 col-sm-6 col-md-6">
-<p>Voilà des jolies maquettes du bateau.</p>
+Voilà des jolies maquettes du bateau.</p>
 </section>
 
 # Tourisme dans la ville
