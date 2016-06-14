@@ -21,12 +21,12 @@ Le musée du Vasa se situe sur l'une des nombreuses îles de Stockholm.
 <p><img src="/dl/photos/robin4.jpg" class="img-rounded col-xs-12 col-sm-8 col-md-6"></p>
 <p>Le Vasa est un bateau de guerre suédois construit au milieu du XVII
 ème sicècle à Stockholm. Il a été conçu pour être un des plus grands
-bateau de guerre de l'époque. Mais malheureusement, il était trop
+bateaux de guerre de l'époque. Mais malheureusement, il était trop
 haut et pas assez lesté, donc pas du tout stable. Après un peu moins
 de deux kilomètres, pris dans une brise un peu plus forte que celle
 du port, et malgré le peu de voile ouvertes, le bateau a basculé sur
 le côté, a pris l'eau par les sabords et a coulé.
-Cela devant les yeux ébahis de centaines (ou millier) de personnes
+Cela devant les yeux ébahis de centaines (ou milliers) de personnes
 venues assister á cette démonstration de force.
 Personnellement, je trouve l'histoire assez drôle.</p>
 
@@ -50,7 +50,7 @@ Voilà des jolies maquettes du bateau.</p>
 
 # Tourisme dans la ville
 
-Après le musée et le lendemain on s'est promené dans Stockholm, sous
+Après le musée et le lendemain on s'est promenés dans Stockholm, sous
 un beau soleil !
 
 <section>
