@@ -8,3 +8,7 @@ tags: photo
 
 <iframe src="https://drive.google.com/open?id=0BwlzJHbXHkEjMG9fZXhiSXU2ZVU" width="100%" height="500">
 </iframe>
+
+# Test
+
+<object data=http://www.web-source.net width="600" height="400"> <embed src=http://www.web-source.net width="600" height="400"> </embed> Error: Embedded data could not be displayed. </object>
