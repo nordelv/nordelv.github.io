@@ -3,6 +3,11 @@ layout: default
 title: Blog
 ---
 
+<link rel="alternate" type="application/rss+xml" title="RSS"
+href="/blog/feed/rss.xml">
+
+test
+
 <ul class="posts">
     Mes articles de blog :
     {% for post in site.posts %}
