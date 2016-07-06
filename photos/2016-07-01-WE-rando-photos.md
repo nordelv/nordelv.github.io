@@ -9,7 +9,7 @@ Je vais maintenant passer par Google Drive pour les photos,
 Vous pouvez donc cliquer sur les photos pour les voir en grand,
 ça ouvrira une nouvelle page.
 
-Sur la photo 5F0A8113-1 on est tous présent, avec dans l'ordre :
+Sur la photo 5F0A8113-1 on est tous présents, avec dans l'ordre :
 Moi, Étienne, Aitor, Koen et Tine.
 
 Merci à Étienne qui a pris quasiment toutes les photos !
