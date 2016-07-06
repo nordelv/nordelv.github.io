@@ -11,5 +11,3 @@ title: Photos
        {% endif %}
     {% endfor %}
 </ul>
-
-![footer](/dl/photos/photoFooter.jpg)
