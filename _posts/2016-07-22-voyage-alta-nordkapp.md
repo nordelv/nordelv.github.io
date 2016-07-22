@@ -31,18 +31,22 @@ Une jeune italienne en jouait à un moment, alors on l'a rejointe, moi avec le g
 Et la nana du bar (un bar chic) est venu nous donner du brownie et des salade de crevette :), c'était super bon.
 Le vent s'était calmé et on a pu monter nos tentes puis se coucher vers 2 heures, il n'y avait presque plus personne.
 
-Le lendemain j'ai été faire la rando de 9km (aller) pour aller au vrai Cap Nord, c'était plus sauvage !
+Le lendemain j'ai été faire la rando de 9km (aller) pour aller au vrai Cap Nord, le Knivsjelodden. c'était plus sauvage !
 Mais avec tout mon bardas c'était long et lourd !
-
+?
 Jeudi soir j'ai dormi en vrac sur le port, en attendant le ferry vers les Lofoten dans lequel je sur actuellement.
 Départ 5h45 pour 22 heures de bateau !
 
 # Photos
 
 [Jour 7 - Hitchhiking](https://drive.google.com/folderview?id=0BwlzJHbXHkEjTmo0TWUtQlgxVzQ)
+
 [Jour 9 - muséed'Alta](https://drive.google.com/folderview?id=0BwlzJHbXHkEjUjhpNkdpMElMQUk)
+
 [Jour 10 - Nordkapp](https://drive.google.com/folderview?id=0BwlzJHbXHkEjTVA0S3c5cjU2eTg)
+
 [Jour 11 - Knivsjelodden + Honningsvåg](https://drive.google.com/folderview?id=0BwlzJHbXHkEjU3RVWEY2Z3lYb1U)
+
 [Jour 12 - bateau](Https://drive.google.com/folderview?id=0BwlzJHbXHkEjZUFUTG8wSUhrSk0)
 
 *Romain*
