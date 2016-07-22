@@ -30,6 +30,7 @@ Une jeune italienne en jouait à un moment, alors on l'a rejointe, moi avec le g
 à joué à peu près de 20 heures à minuit, c'était génial avec le soleil derrière !
 Et la nana du bar (un bar chic) est venu nous donner du brownie et des salade de crevette :), c'était super bon.
 Le vent s'était calmé et on a pu monter nos tentes puis se coucher vers 2 heures, il n'y avait presque plus personne.
+C'était bien mais beaucoup moins fort que le soleil de minuit que j'ai vu à Tromsø.
 
 Le lendemain j'ai été faire la rando de 9km (aller) pour aller au vrai Cap Nord, le Knivsjelodden. c'était plus sauvage !
 Mais avec tout mon bardas c'était long et lourd !
