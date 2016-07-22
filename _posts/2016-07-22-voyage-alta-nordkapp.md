@@ -39,5 +39,10 @@ Départ 5h45 pour 22 heures de bateau !
 
 # Photos
 
-[Jour 7 - Hitchhiking]()
-[Jour 
+[Jour 7 - Hitchhiking](https://drive.google.com/folderview?id=0BwlzJHbXHkEjTmo0TWUtQlgxVzQ)
+[Jour 9 - muséed'Alta](https://drive.google.com/folderview?id=0BwlzJHbXHkEjUjhpNkdpMElMQUk)
+[Jour 10 - Nordkapp](https://drive.google.com/folderview?id=0BwlzJHbXHkEjTVA0S3c5cjU2eTg)
+[Jour 11 - Knivsjelodden + Honningsvåg](https://drive.google.com/folderview?id=0BwlzJHbXHkEjU3RVWEY2Z3lYb1U)
+[Jour 12 - bateau](Https://drive.google.com/folderview?id=0BwlzJHbXHkEjZUFUTG8wSUhrSk0)
+
+*Romain*
